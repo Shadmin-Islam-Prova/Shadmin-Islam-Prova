@@ -5,7 +5,7 @@ I graduated from the University of Dhaka, Bangladesh. My research uses Sentinel-
 
 Recent Publication
 
-I am the first author of a peer-reviewed study in Natural Hazards and Earth System Sciences (Q1, IF 4.7, 2026). The study comes from my MS thesis. It uses SAR coherence change detection to map cyclone damage in coastal Bangladesh. If you are interested in the study, read the paper here: https://doi.org/10.5194/nhess-26-5103-2026
+I have a peer-reviewed study in Natural Hazards and Earth System Sciences (Q1, IF 4.7, 2026). It uses SAR coherence change detection to map cyclone damage in coastal Bangladesh. The study comes from my MS thesis. If you are interested in the study, read the paper here: https://doi.org/10.5194/nhess-26-5103-2026
 
 My Research Interests
 1. SAR and InSAR remote sensing
