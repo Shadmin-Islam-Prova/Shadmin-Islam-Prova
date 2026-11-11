@@ -1,6 +1,6 @@
 # Shadmin-Islam-Prova
 
-I graduated from the University of Dhaka, Bangladesh. My research uses Sentinel-1 radar satellite data to map cyclone damage in coastal Bangladesh. I also work on floods, coastal hazards, and land subsidence.
+I graduated from the University of Dhaka, Bangladesh. My research uses Sentinel-1 radar satellite data to map cyclone damage in coastal Bangladesh. I also work on floods, coastal hazards, and MCDA.
 
 
 Recent Publication
