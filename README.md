@@ -24,4 +24,5 @@ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmin-prova/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sprova155@gmail.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Shadmin-Prova)
-[![GitHub Followers](https://img.shields.io/github/followers/Prova-Shadmin?style=social)](https://github.com/Shadmin-Islam-Prova)
+[![GitHub Followers](https://img.shields.io/github/followers/Shadmin-Islam-Prova?style=social)](https://github.com/Shadmin-Islam-Prova)
+![Profile views](https://komarev.com/ghpvc/?username=Shadmin-Islam-Prova&color=0e75b6&style=flat)
