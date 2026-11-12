@@ -14,6 +14,16 @@ My Research Interests
 4. Coastal salinity
 5. ML for Earth observation
 
+Skills New
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google&logoColor=white)
+![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-003247?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+
 Skills
 
 SAR and InSAR: ESA SNAP; GIS and remote sensing: ArcGIS Pro, QGIS, Google Earth Engine, SEPAL; Programming: Python (basic), R (intermediate); Hydrology: HEC-RAS; ML
